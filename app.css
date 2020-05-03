@@ -1,0 +1,64 @@
+body{
+    background-color: rgba(19, 18, 18, 0.412);
+}
+
+#player_popup{
+    background-color: red;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#player_popup input{
+width: 70%;
+}
+
+#player_popup div{
+    background-color:blue;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+}
+
+
+#player_wrapper{
+border: 2px solid #ccc   
+}
+
+#player_wrapper button{
+    border: 2px solid rgb(155, 58, 58);  
+    
+    width: 75px;
+    }
+#player_wrapper button:hover{
+    border: 2px solid rgb(155, 58, 58);  
+    background-color: rgb(253, 4, 4);
+    width: 75px;
+    }
+
+#player_wrapper img{
+    /* background-color: rgb(7, 32, 56); */
+    display: flex;
+    
+    max-width: 200px;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+
+
+#my_Players > div{
+    background-color: #fff;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+

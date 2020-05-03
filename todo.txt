@@ -1,0 +1,45 @@
+add players
+remove players 
+sort players based on x 
+change on based player clicked 
+stats
+
+
+from api
+save as storage 
+
+
+https://nba-players.herokuapp.com/players/james/lebron
+https://nba-players.herokuapp.com/players-stats/james/lebron
+
+
+//what do 
+    players
+    remove 
+    add 
+    sort 
+
+//human - object 
+//list 
+
+=======================
+what++++++++=++++++++++++++how
+____________________________________________________________________________________
+get players - api call
+get pictures  -- api call
+save player -- localStorage
+remove player -- localStorage 
+search -- api / localStorage
+
+
+
+//localStorage
+//second page for assignment
+//displaying saved players  - ui 
+
+
+
+
+
+
+
