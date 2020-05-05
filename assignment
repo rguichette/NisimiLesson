@@ -23,5 +23,11 @@ your job is simple. In some way, you must display All the images and names of th
     extra notes: 
     there's an "alert" function in js 
 
+    One thing I forgot to mention is that for the stats, you can use whatever you want fromt he data coming back. it could be average points per game or anything else. Just be sure to label what they are so I know what they are as the end user. 
+
+    "be sure to reload the html page every time you make updates if you're not using the "go live feature"
+
+    And as always, GoodLuck! 
+
 
 
