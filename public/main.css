@@ -1,0 +1,24 @@
+/* 
+this file is for everything common in both html files.
+Look at the Menus for example so no need to touch this file at all
+*/
+
+a{
+    padding-top: 30px;
+    /* background-color: #fff; */
+    font-size: 25px;
+    text-decoration: none;
+    color:black;
+    width: 300px;
+    
+    
+}
+
+a:visited{
+   color: black
+    
+}
+a:hover{
+    background-color: #333;
+     
+ }

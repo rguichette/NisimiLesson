@@ -1,0 +1,9 @@
+#player_popup{
+    background-color: green;
+    position: absolute ;
+    width: 200px;
+    height: 300px;
+}
+body{
+    background-color: rgb(58, 27, 36);
+}

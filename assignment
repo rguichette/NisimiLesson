@@ -1,0 +1,27 @@
+1. Before anything else, open up the termin from vscode(view-->terminal) and run the "npm i" command without the quotes. 
+
+2. to run the program, on the terminal run "npm start" without the quotes.
+
+    WARNING: do not close that terminal as long as you're working on the project. If you cancel the process on that terminal, you'll close the server. 
+3: now, on your browser, go to localhost:4000
+
+
+    tip: if you only want to focus on the "all players" tab, just click it and start that live server. However, you wont be able to navigate properly since you're not using the nodejs server. The nodejs server allows you to access the localstorage data from one page on another page. If the node server wasnt running, you'd lose lose all the data that's from the other page. Only the other page would have access to that data. If that doesn't make sense, let me know.
+
+
+
+
+
+*******************Now here's the task****************
+
+your job is simple. In some way, you must display All the images and names of the players. In the design you'll see "3/10" - now, that's to make sure that a person can only select up to 10 players. If the player is already in the list that's in localstorage, there's a minus sign next to the that player and if the player is not on the list, the user should be given the option to add them to their list, and if they click on the minus sign, it should remove that player from their list, and that button should turn into a plus sign. However, if the user already has ten users, they must get an alert telling them that they can only have 10 players. Now, for the "total" be sure to use "player_effeciency_rating". What you'll have to do is take the "player_effeciency_rating" of all the players in the list and add them and divide the result by the number of people in the list. 
+
+    BONUS: style it so it looks like the design. idc if you use bootstrap or pure css. If you use pure css, be sure to only use the catalog.css unless you also want to change the menu as well which is in main.css. 
+
+    Any questions at all, just shoot me a text and I'll call you. I'll be able to assist you a little bit but all I can do is give you hints. A total of 20 hints. 
+
+    extra notes: 
+    there's an "alert" function in js 
+
+
+
